@@ -1,0 +1,8 @@
+# Pastas do CLion/CMake
+cmake-build-debug/
+.idea/
+
+# Arquivos de compilação
+*.exe
+*.o
+*.out
