@@ -1,4 +1,4 @@
-#Projeto Estrutura de Dados
+# Projeto Estrutura de Dados
 
 [cite\_start]Este projeto, de autoria do Prof. Marcos Nava da disciplina de Estrutura de Dados da Fatec Mogi Mirim [cite: 5][cite\_start], é um sistema de gerenciamento de dados que utiliza diferentes estruturas de dados para simular um banco de dados em disco[cite: 8].
 
