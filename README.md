@@ -1,22 +1,22 @@
 # Projeto Estrutura de Dados
 
-Este projeto é um sistema de gerenciamento de dados que utiliza diferentes estruturas de dados para simular um banco de dados em disco[cite: 7].
+Este projeto é um sistema de gerenciamento de dados que utiliza diferentes estruturas de dados para simular um banco de dados em disco.
 
 ## Descrição
 
 O sistema utiliza as seguintes estruturas:
 
-  * [cite\_start]**Lista Dinâmica:** Simula um banco de dados em disco[cite: 7]. [cite\_start]Armazena os dados completos, incluindo CPF, nome, endereço, telefone e email[cite: 23].
-  * [cite\_start]**Lista Duplamente Ligada:** Atua como um índice de ordenação de dados[cite: 7]. [cite\_start]Armazena o nome e o número de registro[cite: 25].
-  * [cite\_start]**Árvore Binária:** Funciona como um índice de chave primária[cite: 7]. [cite\_start]Armazena o CPF e o número de registro[cite: 19].
+  * **Lista Dinâmica:** Simula um banco de dados em disco. Armazena os dados completos, incluindo CPF, nome, endereço, telefone e email.
+  * **Lista Duplamente Ligada:** Atua como um índice de ordenação de dados. Armazena o nome e o número de registro.
+  * **Árvore Binária:** Funciona como um índice de chave primária. Armazena o CPF e o número de registro.
 
 Os dados a serem adicionados incluem:
 
-  * [cite\_start]**CPF** (chave primária) [cite: 10]
-  * [cite\_start]**Nome** (índice de ordenação) [cite: 11]
-  * [cite\_start]**Endereço** [cite: 12]
-  * [cite\_start]**Telefone** [cite: 13]
-  * [cite\_start]**Email** [cite: 14]
+  * **CPF** (chave primária)
+  * **Nome** (índice de ordenação)
+  * **Endereço**
+  * **Telefone**
+  * **Email**
 
 ## Como Executar o Projeto
 
@@ -42,6 +42,8 @@ Para compilar e executar o projeto, siga os passos abaixo:
     ```
 
 ## Estrutura de Arquivos
+
+A estrutura do projeto é a seguinte:
 
   * `main.c`: Contém a lógica principal do programa, o menu de opções e as chamadas para as funções das estruturas de dados.
   * `ListaDinamica.h`: Cabeçalho com a definição da estrutura e protótipos das funções da Lista Dinâmica.
