@@ -1,22 +1,22 @@
 # Projeto Estrutura de Dados
 
-[cite\_start]Este projeto é um sistema de gerenciamento de dados que utiliza diferentes estruturas de dados para simular um banco de dados em disco[cite: 8].
+Este projeto é um sistema de gerenciamento de dados que utiliza diferentes estruturas de dados para simular um banco de dados em disco[cite: 7].
 
-## Descrição  
+## Descrição
 
 O sistema utiliza as seguintes estruturas:
 
-  * [cite\_start]**Lista Dinâmica:** Simula um banco de dados em disco[cite: 8]. [cite\_start]Armazena os dados completos, incluindo CPF, nome, endereço, telefone e email[cite: 10, 11, 12, 13, 14, 15, 24].
-  * [cite\_start]**Lista Duplamente Ligada:** Atua como um índice de ordenação de dados[cite: 8]. [cite\_start]Armazena o nome e o número de registro[cite: 26].
-  * [cite\_start]**Árvore Binária:** Funciona como um índice de chave primária[cite: 8]. [cite\_start]Armazena o CPF e o número de registro[cite: 20].
+  * [cite\_start]**Lista Dinâmica:** Simula um banco de dados em disco[cite: 7]. [cite\_start]Armazena os dados completos, incluindo CPF, nome, endereço, telefone e email[cite: 23].
+  * [cite\_start]**Lista Duplamente Ligada:** Atua como um índice de ordenação de dados[cite: 7]. [cite\_start]Armazena o nome e o número de registro[cite: 25].
+  * [cite\_start]**Árvore Binária:** Funciona como um índice de chave primária[cite: 7]. [cite\_start]Armazena o CPF e o número de registro[cite: 19].
 
 Os dados a serem adicionados incluem:
 
-  * [cite\_start]**CPF** (chave primária) [cite: 11]
-  * [cite\_start]**Nome** (índice de ordenação) [cite: 12]
-  * [cite\_start]**Endereço** [cite: 13]
-  * [cite\_start]**Telefone** [cite: 14]
-  * [cite\_start]**Email** [cite: 15]
+  * [cite\_start]**CPF** (chave primária) [cite: 10]
+  * [cite\_start]**Nome** (índice de ordenação) [cite: 11]
+  * [cite\_start]**Endereço** [cite: 12]
+  * [cite\_start]**Telefone** [cite: 13]
+  * [cite\_start]**Email** [cite: 14]
 
 ## Como Executar o Projeto
 
